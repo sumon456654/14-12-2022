@@ -1,0 +1,8 @@
+wordpress huk koto prokar---
+* Action huk
+* Filter huk
+
+
+
+add theme suport
+registre sidebar
